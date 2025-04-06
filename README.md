@@ -7,7 +7,7 @@ Bash script to analyse basic server performance stats.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AMM48/devops-lab.git
+git clone https://github.com/fakeVedant/server-performance-stats.git
 cd server-performance-stats
 ```
 
